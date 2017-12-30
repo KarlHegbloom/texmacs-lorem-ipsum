@@ -1,6 +1,8 @@
-= Lorem Ipsum generator for TeXmacs
+Lorem Ipsum generator for TeXmacs
+=================================
 
-== Synopsis
+Synopsis
+--------
 
 Of course you may use `~/Source` or whatever directory you prefer for this:
 
@@ -14,7 +16,8 @@ popd
 texmacs testit.tm
 ```
 
-== Bugs
+Bugs
+----
 
 Please use the github issues tracker for this project when reporting bugs or
 requesting features. Thanks.
